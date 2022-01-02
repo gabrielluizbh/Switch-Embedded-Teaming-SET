@@ -1,2 +1,2 @@
-# Switch-Embedded-Teaming-SET-
+# Switch-Embedded-Teaming-SET
 Script Switch Embedded Teaming (SET)
