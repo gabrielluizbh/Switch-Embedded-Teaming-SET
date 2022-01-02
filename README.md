@@ -2,7 +2,7 @@
 
 Conteúdo:
 
-Script Hyper-V Server 2019 - Gerenciamento Remoto em Workgroup.ps1
+Script Switch Embedded Teaming (SET).ps1
 
 Para maior entendimento para execução do script acesse o link do artigo: 
 
