@@ -1,9 +1,9 @@
 # Script Switch Embedded Teaming (SET)
 
-**Conteúdo:
+**Conteúdo:**
 
 Script Switch Embedded Teaming (SET).ps1
 
-Para maior entendimento para execução do script acesse o link do artigo: 
+**Para maior entendimento para execução do script acesse o link do artigo: **
 
-Créditos - Gabriel Luiz - www.gabrielluiz.com
+**Créditos - Gabriel Luiz - www.gabrielluiz.com**
